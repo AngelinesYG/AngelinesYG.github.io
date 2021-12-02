@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+After spending years in adinistrative and educatinal functions, I found myself not fulfilling my passion for creativity and helping others; so I embarked on a mission to find ways to do so by entering the field of technology. Using my knowledge and skills to build technologies and create a plethora of resources and information that create opportunities to give people more avenues for learning, development, and growth. This led me to becoming a Technical Writer and Software Engineer. A writer whose work and mission are to publish content that provides truthful, accurate, and easy to understand documents so that the general public is well informed of the available resources, so developers can build better applications, and so the public understands how to use and manage life changing technologies. An Engineer whose mission is to build applications that improve people’s daily tasks and way of life. A mom, first and foremost, who will make sure that her children chave acesss to information and technologies that will afford them opportunites that would otherwise would not be available.  
